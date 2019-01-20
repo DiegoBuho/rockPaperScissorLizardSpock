@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d451ad28b9b58224b8d2fc8770d81836, type: 3}
+  m_Name: Bazooka
+  m_EditorClassIdentifier: 
+  defeatedElements:
+  - {fileID: 11400000, guid: 1190d9578fc61774bb2805aefd6a048f, type: 2}
+  - {fileID: 11400000, guid: 56a6b306383d16c45b472b7bf4904804, type: 2}
+  - {fileID: 11400000, guid: 93563445b78bae141ae32c387fcd8dd7, type: 2}
+  - {fileID: 11400000, guid: d32de1ca034398848ab1e81040a51bf4, type: 2}
+  - {fileID: 11400000, guid: 424008ae417f7a641b6e6aca07ff4b41, type: 2}
+  elementImage: {fileID: 21300000, guid: d42255f9f5f4d3244bb25f8be482e135, type: 3}
